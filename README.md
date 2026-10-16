@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm Kristian! ![](https://komarev.com/ghpvc/?username=PattysDevelopment&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/vnjPpwuQFg) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://crimsondev.shop)
+## Hey 👋, I'm Kristian! ![](https://komarev.com/ghpvc/?username=PattysDevelopment&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)]() [![Website Badge](https://ohrid.dev)
 
 ```js
 async function legend() {
